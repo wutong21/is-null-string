@@ -1,11 +1,11 @@
-# is-null-str
+# is-null-string
 
 Checks whether the input string or object is an empty string or an empty object.
 
 ## Installation
 
 ```sh
-npm install is-null-str
+npm install is-null-string
 ```
 
 ## API
