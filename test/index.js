@@ -1,12 +1,12 @@
 try {
-  var isNullString = require("is-null-str")
+  var isNullString = require("is-null-string")
 } catch (e) {
   var isNullString = require("..")
 }
 
 var assert = require("assert");
 
-describe('is-null-str', function () {
+describe('is-null-string', function () {
   describe("valid", function () {
     it('空字符串', function () {
       assert(isNullString(''))

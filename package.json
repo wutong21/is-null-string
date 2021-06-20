@@ -1,5 +1,5 @@
 {
-  "name": "is-null-str",
+  "name": "is-null-string",
   "version": "1.0.0",
   "description": "Checks whether the input string or object is an empty string or an empty object",
   "main": "index.js",
