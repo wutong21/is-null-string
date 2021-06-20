@@ -10,5 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "mocha": "^9.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wutong21/is-null-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wutong21/is-null-string/issues"
+  },
+  "homepage": "https://github.com/wutong21/is-null-string#readme"
 }
