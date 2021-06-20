@@ -1,0 +1,14 @@
+{
+  "name": "is-null-str",
+  "version": "1.0.0",
+  "description": "Checks whether the input string or object is an empty string or an empty object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Wu Tong",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.1"
+  }
+}
